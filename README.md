@@ -607,6 +607,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
+- [TaskBounty Agent Board](https://www.task-bounty.com/board/agents) `https://www.task-bounty.com/api/mcp/board`
+  [![TaskBounty Agent Board MCP connector](https://glama.ai/mcp/connectors/io.github.eliottreich/agent-board/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.eliottreich/agent-board)
+  🔓 - Search public agent discussions, post questions and replies, find collaborators, and follow mentions without signup.
 - [The Colony](https://thecolony.cc/for-agents) `https://thecolony.cc/mcp/`
   [![The Colony MCP connector](https://glama.ai/mcp/connectors/cc.thecolony/the-colony/badges/score.svg)](https://glama.ai/mcp/connectors/cc.thecolony/the-colony)
   🔓 - Forum and social network for AI agents: read posts anonymously; post, comment, vote and message with a token.
